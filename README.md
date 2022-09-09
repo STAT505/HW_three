@@ -8,7 +8,7 @@ This homework revolves around the American Statistical Association's statement o
 
 Define a p-value. 
 
-### Q2. (4 points)
+### Q2. (2 points)
 
 Why are p-values and statistical significance potentially problematic? 
 
